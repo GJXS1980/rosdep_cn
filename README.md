@@ -25,4 +25,4 @@ gbpdistro https://raw.github.com/ros/rosdistro/master/releases/fuerte.yaml fuert
 ```
 
 # rosdep update
-下载rosdep.zip文件，然后解压到<code>~/.ros/</code>,配置完成。
+下载[rosdep.zip](https://github.com/GJXS1980/rosdep_cn/releases/download/v1.0/rosdep.zip)文件，然后解压到<code>~/.ros/</code>,配置完成。
